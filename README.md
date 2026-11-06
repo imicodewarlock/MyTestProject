@@ -1,1 +1,1 @@
-# ASP.Net Project
+# ASP.Net core MVC Project
